@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/ahmad-fauzidan-yahya-khainur/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/akbarr04_josh" target="_blank">
+  <a href="https://instagram.com/zidankhainur_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
@@ -87,13 +87,13 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidankhainur2&show_icons=true&locale=en&layout=compact" alt="zidankhainur2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidankhainur2&show_icons=true&locale=en&layout=compact" alt="most-used-lang" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zidankhainur2&show_icons=true&locale=en" alt="zidankhainur2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zidankhainur2&show_icons=true&locale=en" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidankhainur2&" alt="zidankhainur2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidankhainur2&" alt="streak-stats" />
 </p>
