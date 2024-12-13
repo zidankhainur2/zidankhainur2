@@ -22,7 +22,7 @@
 - 🌱 Currently learning **Next.js** and exploring advanced web development concepts.
 - 👨‍💻 Check out my projects on my [Portfolio](https://zidankhainur2.github.io/portofolio/).
 - 💬 Ask me anything about **React**, **Next.js**, or **JavaScript**.
-- 📫 Reach me at **zeroonex01@gmail.com**.
+- 📫 Reach me at **zidankhainur2@gmail.com**.
 - 📄 Explore my professional background: [My Resume](https://drive.google.com/file/d/14_wcgmm0zBTzj8PV9x4uOdOMIg8kHosI/view?usp=sharing).
 - ⚡ Fun fact: **I love playing photography & music**
 
