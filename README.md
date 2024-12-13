@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Fauzidan Yahya Khainur (DANN)</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia, with a focus on building modern web applications</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Fauzidan Yahya Khainur (ZIDAN)</h1>
+<h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
 <!-- PHOTO -->
 <p align="center">
@@ -24,7 +24,7 @@
 - 💬 Ask me anything about **React**, **Next.js**, or **JavaScript**.
 - 📫 Reach me at **zidankhainur2@gmail.com**.
 - 📄 Explore my professional background: [My Resume](https://drive.google.com/file/d/14_wcgmm0zBTzj8PV9x4uOdOMIg8kHosI/view?usp=sharing).
-- ⚡ Fun fact: **I love playing photography & music**
+- ⚡ Fun fact: **I love photography & music**
 
 ---
 
