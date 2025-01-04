@@ -23,7 +23,7 @@
 - 👨‍💻 Check out my projects on my [Portfolio](https://portofolio-zidankhainur.vercel.app/).
 - 💬 Ask me anything about **React**, **Next.js**, or **JavaScript**.
 - 📫 Reach me at **zidankhainur2@gmail.com**.
-- 📄 Explore my professional background: [My Resume](https://drive.google.com/file/d/14_wcgmm0zBTzj8PV9x4uOdOMIg8kHosI/view?usp=sharing).
+- 📄 Explore my professional background: [My Resume](https://drive.google.com/file/d/1b6Q5uugkZlpWtBBsnxXoCJpD4WPxmqoW/view?usp=sharing).
 - ⚡ Fun fact: **I love photography & music**
 
 ---
