@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Photography+%26+Music+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%26+Enthusiast;Photography+%26+Music+Lover" alt="Typing SVG" />
 
   <br>
 
@@ -16,7 +16,7 @@
     <a href="https://instagram.com/zidankhainur_" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://portofolio-zidankhainur.vercel.app/" target="_blank">
+    <a href="https://zidankhainurshub.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:zidankhainur2@gmail.com">
