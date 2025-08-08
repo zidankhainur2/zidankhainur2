@@ -5,10 +5,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <h3>A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
-  
-  <p>I love building beautiful and functional web applications. Currently diving deep into Next.js!</p>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Photography+%26+Music+Lover" alt="Typing SVG" />
+
+  <br>
+
   <p>
     <a href="https://www.linkedin.com/in/ahmad-fauzidan-yahya-khainur/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:zidankhainur2@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https.img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
 
@@ -31,61 +31,54 @@
 ---
 
 ### 👨‍💻 About Me
+- 🌱 Saat ini sedang mendalami **Next.js** dan konsep *advanced web development*.
+- 💬 Tanya saya apa pun seputar **React, Next.js, atau JavaScript**. Saya senang berbagi!
+- 📄 Lihat latar belakang profesional saya di [**Resume**](https://drive.google.com/file/d/1b6Q5uugkZlpWtBBsnxXoCJpD4WPxmqoW/view?usp=sharing).
+- ⚡ Fakta unik: Saya sangat menyukai **fotografi & musik**.
 
-- 🌱 Currently learning **Next.js** and exploring advanced web development concepts.
-- 💬 Ask me anything about **React, Next.js, or JavaScript**. I'd be happy to help!
-- 📄 Explore my professional background on my [**Resume**](https://drive.google.com/file/d/1b6Q5uugkZlpWtBBsnxXoCJpD4WPxmqoW/view?usp=sharing).
-- ⚡ Fun fact: I'm a huge fan of **photography & music**.
+---
+
+### 🚀 My Featured Project
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <strong><a href="https://portofolio-zidankhainur.vercel.app/" target="_blank">My Portfolio Website</a></strong>
+      <br><br>
+      Sebuah website portofolio personal untuk menampilkan proyek-proyek dan keahlian saya, dibangun dengan teknologi web modern.
+      <br><br>
+      <div align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I've been working with:
-
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <br><br>
-  <strong>Backend & Databases:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <br><br>
-  <strong>Others:</strong><br>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+**Programming Languages:**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<br><br>
+**Frontend Development:**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<br><br>
+**Backend & Databases:**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<br><br>
+**Tools & Others:**<br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 ---
 
@@ -93,7 +86,7 @@ Here are some of the technologies I've been working with:
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=zidankhainur2&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=zidankhainur2&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   
   <br>
   
